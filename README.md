@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Misbah</h1>
-<h3 align="center">A passionate frontend developer from Chicago</h3>
+<h3 align="center">A passionate Software developer from Chicago</h3>
 
-- Software developer - **Grinding hard to make something cool**
-
-- Favorite Tech: **Java,C++, Javascript, React, Typescript, ...**
+- Favorite Tech: **Java, C++, Javascript, React, Typescript, ...**
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
-- 📫 How to reach mesk me about **misbahsyed2504@gmail.com**
+- 📫 How to reach me **misbahsyed2504@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
