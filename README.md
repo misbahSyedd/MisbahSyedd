@@ -1,13 +1,13 @@
-
-Hi, I'm Misbah! 👋
-🔥 Software Developer grinding hard to make something cool
-✨ Favorite Tech: Java, C++, Javascript, React, Typescript, ...
-📧 misbahsyed2504@gmail.com
-
 <h1 align="center">Hi 👋, I'm Misbah</h1>
 <h3 align="center">A passionate frontend developer from Chicago</h3>
 
+- Software developer - **Grinding hard to make something cool**
+
+- Favorite Tech: **Java,C++, Javascript, React, Typescript, ...**
+
 - 🔭 I’m currently working on **Ecommerce Website**
+
+- 📫 How to reach mesk me about **misbahsyed2504@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
