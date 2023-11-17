@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Misbah</h1>
 <h3 align="center">A passionate Software Developer from Chicago</h3>
 
+- A coding enthusiast with a focus on Java, C++, JavaScript, and related technologies/frameworks
 - 🔭 I’m currently working on an [Ecommerce Project](https://ecommercee-beta.vercel.app/)
 
 - 📫 How to reach me **misbahsyed2504@gmail.com**
